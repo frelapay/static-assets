@@ -2,4 +2,5 @@
 
 https://assets.frelapay.com/
 
-Frelapay logos, icons, etc,.. deployed over Vercel as a CDN.
+Frelapay logos, favicons, etc, deployed over [Github Pages](https://pages.github.com).
+
